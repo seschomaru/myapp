@@ -1,2 +1,3 @@
 y is an alphabet.
 y is a color.
+y is a ship.
