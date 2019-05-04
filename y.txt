@@ -1,2 +1,3 @@
 new file by master
 y update feature2
+y is a fish.
